@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Portfolio Tutorial on my Youtube Channel: https://youtube.com/ChaooCharles
+- 🔭 I’m currently working on a Portfolio Tutorial on my Youtube Channel: https://youtube.com/ChaooCharles
 - 🌱 I’m currently learning Gatsby
 - 👯 I’m looking to collaborate on React Projects
 - 💬 Ask me about JavaScript
