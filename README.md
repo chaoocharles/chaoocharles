@@ -4,7 +4,8 @@ Hi 👋 My name is Charles
 software developer . tech educator
 ----------------------------------
 
-* 🌍  I'm based in Kenya
+* 🔥  Subscribe to my YouTube Channel: https://youtube.com/c/chaoocharles
+* 🌍  I'm based in Kenya
 * ✉️  You can contact me at [chaoocharles@gmail.com](mailto:chaoocharles@gmail.com)
 * 🧠  I'm learning DeFi
 * 🤝  I'm open to collaborating on React projects
