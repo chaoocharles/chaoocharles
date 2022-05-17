@@ -1,7 +1,7 @@
 Hi 👋 My name is Charles
 ========================
 
-software developer . tech educator
+software developer • javascript • tech educator • he/him
 ----------------------------------
 
 * 🔥  Subscribe to my YouTube Channel: https://youtube.com/c/chaoocharles
