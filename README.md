@@ -7,8 +7,7 @@ software engineer 👨‍💻 • tech educator • he/him
 * 🔥  Subscribe to my YouTube Channel: https://youtube.com/c/chaoocharles
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [chaoocharles@gmail.com](mailto:chaoocharles@gmail.com)
-* 🧠  I'm learning DeFi
-* 🤝  I'm open to collaborating on React projects
+* 🤝  I'm open to collaborating on React and Node.js projects
 
 <a href="https://www.twitter.com/chaoocharles" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/chaoocharles?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -30,9 +29,6 @@ src="https://img.shields.io/twitter/follow/chaoocharles?logo=twitter&style=for-t
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" alt="Uniswap" /></a>
-<a href="https://aave.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aave-colored.svg" width="36" height="36" alt="AAVE" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
 
 
