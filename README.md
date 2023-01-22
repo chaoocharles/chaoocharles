@@ -9,10 +9,6 @@ software engineer 👨‍💻 • tech educator • he/him
 * ✉️  You can contact me at [chaoocharles@gmail.com](mailto:chaoocharles@gmail.com)
 * 🤝  I'm open to collaborating on React and Node.js projects
 
-<a href="https://www.twitter.com/chaoocharles" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/chaoocharles?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
 ### Skills
 
 <p align="left">
