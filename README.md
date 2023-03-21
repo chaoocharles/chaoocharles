@@ -1,7 +1,7 @@
 Hi 👋 My name is Charles
 ========================
 
-software engineer 👨‍💻 • tech educator • he/him
+I write computer code.
 ----------------------------------
 
 * 🔥  Subscribe to my YouTube Channel: https://youtube.com/c/chaoocharles
