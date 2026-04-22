@@ -5,7 +5,7 @@ I write computer code.
 ----------------------------------
 
 * 🔥  Subscribe to my YouTube Channel: https://youtube.com/c/chaoocharles
-* 🌍  I'm based in Kenya
+* 🌍  I'm based in Kenya 🇰🇪
 * ✉️  You can contact me at [chaoocharles@gmail.com](mailto:chaoocharles@gmail.com)
 * 🤝  I'm open to collaborating on React, TypeScript, Next.js, React Native and Node.js projects
 
